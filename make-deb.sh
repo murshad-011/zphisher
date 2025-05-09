@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/bash=zphisher
+
 
 # Make Deb Package for Zphisher (^.^)
 _PACKAGE=zphisher
